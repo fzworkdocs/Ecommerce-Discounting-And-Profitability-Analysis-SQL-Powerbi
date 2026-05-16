@@ -47,3 +47,6 @@ https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset
 
 ## Author
 Faiza
+
+> Note: Due to file size, GitHub cannot preview the MS Word file. Please download the file to view the full report.
+> If you like this project, feel free to star the repo!
