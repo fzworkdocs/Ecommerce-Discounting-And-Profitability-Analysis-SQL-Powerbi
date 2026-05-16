@@ -25,18 +25,6 @@ The analysis focuses on identifying the impact of discounts on profit margins an
 - Operations & Delivery
 - Customer & Marketing Strategy
 
-## Dashboard Preview
-
-### Executive Summary
-![Executive Summary](05_preview/01_page.png)
-
-### Operations & Delivery
-![Operations & Delivery](05_preview/02_page.png)
-
-### Customer & Marketing Strategy
-![Customer & Marketing Strategy](05_preview/03_page.png.png)
-
-
 ## Recommendations
 - Improve discount competitiveness in Electronics products.
 - Increase marketing investment in Fashion products.
