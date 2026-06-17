@@ -1,4 +1,4 @@
-# E-Commerce Sales & Profitability Analysis
+# E-Commerce Discounting And Profitability Analysis
 ### PostgreSQL + Power BI Project
 
 ## Project Overview
