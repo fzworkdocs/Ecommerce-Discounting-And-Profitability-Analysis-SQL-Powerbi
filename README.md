@@ -9,7 +9,7 @@ The analysis focuses on identifying the impact of discounts on profit margins an
 ## Tools & Technologies
 - PostgreSQL
 - Power BI
-- SQL
+- pgadmin
 - DAX
 - Power Query
 
