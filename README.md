@@ -28,13 +28,13 @@ The analysis focuses on identifying the impact of discounts on profit margins an
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](05_preview/01_page/.png)
+![Executive Summary](05_preview/01_page.png)
 
 ### Operations & Delivery
-![Operations & Delivery](05_preview/02_page/.png)
+![Operations & Delivery](05_preview/02_page.png)
 
 ### Customer & Marketing Strategy
-![Customer & Marketing Strategy](05_preview/03_page/.png)
+![Customer & Marketing Strategy](05_preview/03_page.png)
 
 ## Recommendations
 - Improve discount competitiveness in Electronics products.
